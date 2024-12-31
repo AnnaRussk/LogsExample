@@ -9,6 +9,8 @@ public class LogsExample {
     logger.info("Запуск логгера");
     logger.error("Пример ошибки");
     logger.debug("Отладка");
+
+    logger.warn("Какое-нибудь предупреждение");
   }
 
 }
